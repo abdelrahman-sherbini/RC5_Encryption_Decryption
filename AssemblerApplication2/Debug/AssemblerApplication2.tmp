@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\Debug\AssemblerApplication2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication2.map</FILE>
+  <FILE>AssemblerApplication2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Sarray><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>41</LINE></Sarray>
+  <sthru><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>70</LINE></sthru>
+  <rotate><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>80</LINE></rotate>
+  <mod><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>477</LINE></mod>
+  <rotate2><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>115</LINE></rotate2>
+  <reset><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>539</LINE></reset>
+  <reset2><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>544</LINE></reset2>
+  <copy><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>160</LINE></copy>
+  <encloop><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>230</LINE></encloop>
+  <mod2><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>508</LINE></mod2>
+  <r6rotate><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>242</LINE></r6rotate>
+  <r62rotate><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>279</LINE></r62rotate>
+  <decloop><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>345</LINE></decloop>
+  <r6rotater><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>379</LINE></r6rotater>
+  <r62rotater><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>406</LINE></r62rotater>
+  <inf><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>473</LINE></inf>
+  <__udivmodhi4_ep><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>492</LINE></__udivmodhi4_ep>
+  <__udivmodhi4_loop><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>484</LINE></__udivmodhi4_loop>
+  <__udivmodhi4_ep2><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>523</LINE></__udivmodhi4_ep2>
+  <__udivmodhi4_loop2><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>515</LINE></__udivmodhi4_loop2>
+  <fix><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>549</LINE></fix>
+  <fix2><FILE>C:\Users\abdel\Documents\Atmel Studio\7.0\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>553</LINE></fix2>
+ </LABELS>
+</ASSEMBLER_INFO>
